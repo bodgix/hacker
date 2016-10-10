@@ -1,0 +1,7 @@
+# RVM
+.ruby-gemset
+.ruby-version
+.rvmrc
+
+# Atom
+.tags
